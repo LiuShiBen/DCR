@@ -1,4 +1,4 @@
-## Domain Consistency Representation Learning for Lifelong Person Re-Identification
+## Domain Consistency Representation Learning for Lifelong Person Re-Identification (DCR)
 
 <div align="center"> 
   
