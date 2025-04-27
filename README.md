@@ -1,6 +1,7 @@
 ## Domain Consistency Representation Learning for Lifelong Person Re-Identification
 
 <div align="center"> 
+  
 [![arXiv](https://img.shields.io/badge/arXiv-2409.19954-b31b1b?logo=arxiv)](https://arxiv.org/abs/2409.19954)
 
 </div>
