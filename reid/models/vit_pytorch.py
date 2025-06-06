@@ -743,7 +743,7 @@ class build_transformer(nn.Module):
             # AFA Attribute feature alignment
             Dec_out = AFA(Dec_out, text_img_fin[:, 0:self.class_token])  # [bs 5 768]
 
-            img_feature = image_features[:, 0]
+            img_feature = image_features[:, 0]https://github.com/LiuShiBen/DCR/blob/master/reid/models/vit_pytorch.py
             for i in range(1, self.class_token):
                 img_feature = img_feature + image_features[:, i]
 
@@ -760,7 +760,7 @@ class build_transformer(nn.Module):
             return cls_score_fin, [img_feature], Dec_out, image_features[:, :self.class_token], img_feature, text_feature_proj
         else:
             #return torch.cat([feat, feat_fin], dim=1)
-            return feat_fin
+            return feat
 
 
     def load_param(self, trained_path):
