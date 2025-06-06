@@ -760,7 +760,7 @@ class build_transformer(nn.Module):
             return cls_score_fin, [img_feature], Dec_out, image_features[:, :self.class_token], img_feature, text_feature_proj
         else:
             #return torch.cat([feat, feat_fin], dim=1)
-            return feat
+            return feat_fin
 
 
     def load_param(self, trained_path):
