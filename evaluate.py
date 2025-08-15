@@ -94,8 +94,7 @@ def main_worker(args):
 
     # Load checkpoints
     if args.resume_working:
-        current_checkpoint = load_checkpoint(args.resume_working)
-        # model.load_param(args.resume_working)
+        current_checkpoint = load_checkpoint(args.resume_working)        
         copy_state_dict(current_checkpoint['state_dict'], model)
 
 
@@ -129,8 +128,7 @@ def main_worker(args):
                     test_loader_Reid, test_loader_prid]
 
     # Start evaluating
-    for evaluator, name, test_loader in zip(evaluators, names, test_loaders):
-        #eval_func(epoch, evaluator, model, test_loader, name, old_model)
+    for evaluator, name, test_loader in zip(evaluators, names, test_loaders):        
         eval_func(epoch, evaluator, model, test_loader, name)
 
     print('finished')
