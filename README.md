@@ -1,11 +1,6 @@
 ## Domain Consistency Representation Learning for Lifelong Person Re-Identification (DCR)
 
 <div align="center"> 
-  
-[![arXiv](https://img.shields.io/badge/arXiv-2409.19954-b31b1b?logo=arxiv)](https://arxiv.org/abs/2409.19954)
-</div>
-
-<div align="center"> 
 
 📺 **IEEE TCSVT 2025**: [Domain Consistency Representation Learning](https://ieeexplore.ieee.org/document/11112611)  
 </div>
