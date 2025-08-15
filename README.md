@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-📺 **IEEE TCSVT 2025**: [Domain Consistency Representation Learning](https://ieeexplore.ieee.org/document/11112611)  
+📺Our paper has been accepted by [IEEE Transactions on Circuits and Systems for Video Technology 2025](https://ieeexplore.ieee.org/document/11112611)  
 </div>
 
 ### Introduction
