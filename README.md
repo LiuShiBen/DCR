@@ -3,7 +3,10 @@
 <div align="center"> 
   
 [![arXiv](https://img.shields.io/badge/arXiv-2409.19954-b31b1b?logo=arxiv)](https://arxiv.org/abs/2409.19954)
-📺 **TCSVT 2025**: [Deep Learning for Video Compression](https://ieeexplore.ieee.org/document/1234567)
+</div>
+<div align="center"> 
+
+[<img src="https://www.ieee.org/content/dam/ieee-web/global/images/ieee_logo_white.png" alt="IEEE Logo" width="100"/>](https://arxiv.org/abs/2409.19954)
 </div>
 
 ### Introduction
