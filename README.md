@@ -4,9 +4,10 @@
   
 [![arXiv](https://img.shields.io/badge/arXiv-2409.19954-b31b1b?logo=arxiv)](https://arxiv.org/abs/2409.19954)
 </div>
+
 <div align="center"> 
 
-[<img src="https://www.ieee.org/content/dam/ieee-web/global/images/ieee_logo_white.png" alt="IEEE Logo" width="100"/>](https://arxiv.org/abs/2409.19954)
+📺 **IEEE TCSVT 2025**: [Domain Consistency Representation Learning](https://ieeexplore.ieee.org/document/11112611)  
 </div>
 
 ### Introduction
