@@ -35,7 +35,15 @@ Training order-2 for training.
 python continual_train(order2).py --data-dir=/your seen dataset path
 ```
 
-## Acknowledgement
+### Testing
+```
+python evaluate.py --data-dir=/your test dataset path"
+```
+
+### Contact
+
+If you have any questions, please contact Shiben Liu at liushiben310@163.com.
+### Acknowledgement
 
 - Diverse Representations Embedding for Lifelong Person Re-Identification  [DRE](https://github.com/LiuShiBen/DRE).
 - Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation  [KRKC](https://github.com/cly234/LReID-KRKC).
